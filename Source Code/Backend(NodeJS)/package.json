@@ -1,0 +1,17 @@
+{
+    "name": "imageupload",
+    "description": "very legit money maker",
+    "author": "",
+    "license": "ISC",
+    "main": "server.js",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.3",
+        "express-fileupload": "^0.4.0",
+        "method-override": "^3.0.0",
+        "mysql": "^2.16.0",
+        "nodemailer": "^4.6.7",
+        "path": "^0.12.7",
+        "pg": "^7.4.3"
+    }
+}
